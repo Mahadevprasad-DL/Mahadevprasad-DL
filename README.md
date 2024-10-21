@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/Mahadevprasad-DL)
 
-- 💬 Ask me about **FullStack Web development (HTML, CSS, JS, PHP, MySQL), UI/UX Design**
+- 💬 Ask me about **FullStack Web development (HTML, CSS, JS, PHP, MySQL), UI/UX Design***
 
 - 📫 How to reach me: [Email](mailto:girishdl78524@gmail.com)
 
