@@ -11,7 +11,7 @@
   </a> 
 </p>
 
-- 🌱 I’m currently learning **DSA in Python, Machine Learning**
+- 🌱 I’m currently learning **DSA in Java, Machine Learning**
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/Mahadevprasad-DL)
 
