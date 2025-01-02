@@ -11,7 +11,7 @@
   </a> 
 </p>
 
-- 🌱 I’m currently learning **DSA in Java, Machine Learning**
+- 🌱 I’m currently learning **Data Science, java**
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/Mahadevprasad-DL)
 
