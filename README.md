@@ -19,7 +19,7 @@
 
 - 📫 How to reach me: [Email](mailto:girishdl78524@gmail.com)
 
-- 📄 Check out my [Resume](https://drive.google.com/file/d/1Y_JaI1ty6Gxf-mOoVu1yuCT4mwt7Svgw/view?usp=drive_link)
+- 📄 Check out my [Resume](https://drive.google.com/file/d/1LSRfqUgd-cS1T0nDA--NnjCUy9-3KkDK/view?usp=drivesdk)
 
 - ⚡ Fun fact: **I am Funny**
 
