@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahadevprasad D L</h1>
-<h3 align="center">Full Stack Web Developer | Contributor at GSSoC'24 | UI/UX Designer | Experienced in 50+ Freelance Web Projects | Proficient in UI/UX Design for 50+ Projects | DSA in Python | Python Programmer | PHP Programmer</h3>
+<h3 align="center">Full Stack Web Developer | Contributor at GSSoC'24 | UI/UX Designer | Experienced in 50+ Freelance Web Projects | Proficient in UI/UX Design for 50+ Projects | DSA in Java | Python Programmer | PHP Programmer</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=mahadevprasad-dl&label=Profile%20views&color=0e75b6&style=flat" alt="mahadevprasad-dl" /> 
