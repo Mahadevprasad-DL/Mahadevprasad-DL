@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **DSA in Java, Data Science, Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Mahadevprasad-DL](https://github.com/Mahadevprasad-DL)
+- 👨‍💻 All of my projects are available at <a href="https://github.com/Mahadevprasad-DL" target="_blank">Github</a>.
 
 - 💬 Ask me about **FullStack Web development (html,css,js,php,mysql), UI/UX Design**
 
-- 📫 How to reach me **girishdl78524@gmail.com**
+- 📫 How to reach me: <a href="mailto:girishdl78524@gmail.com">Email</a>
 
-- 📄 Check out my Resume here [https://drive.google.com/file/d/1Dkoysq8dFd5SSM3QrWL8R_B3cTHmTJZI/view?usp=drive_link](https://drive.google.com/file/d/1Dkoysq8dFd5SSM3QrWL8R_B3cTHmTJZI/view?usp=drive_link)
+- 📄Check out my Resume <a href="https://drive.google.com/file/d/1Dkoysq8dFd5SSM3QrWL8R_B3cTHmTJZI/view?usp=drive_link" target="_blank">Resume</a>.
 
 - ⚡ Fun fact **I am Funny**
 
