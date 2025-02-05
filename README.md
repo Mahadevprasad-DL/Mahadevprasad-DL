@@ -13,7 +13,7 @@
 
 - 📫 How to reach me: <a href="mailto:girishdl78524@gmail.com">Email</a>
 
-- 📄Check out my Resume <a href="https://drive.google.com/file/d/1Dkoysq8dFd5SSM3QrWL8R_B3cTHmTJZI/view?usp=drive_link" target="_blank">Resume</a>.
+- 📄Check out my Resume <a href="https://drive.google.com/file/d/1LSRfqUgd-cS1T0nDA--NnjCUy9-3KkDK/view?usp=drive_link" target="_blank">Resume</a>.
 
 - ⚡ Fun fact **I am Funny**
 
