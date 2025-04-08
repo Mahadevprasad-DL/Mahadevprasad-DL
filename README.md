@@ -18,12 +18,14 @@
 - ⚡ Fun fact **I am Funny**
 
 
-<h3 align="left">Postman Badges:</h3>
+<h3 align="left">🎖️ Achievements & Developer Badges</h3>
 
 <p align="left">
   <!-- Postman Badges -->
-  <img src="assets/postman.png" alt="Postman Flows Beginner Badge" width="100" height="100" />
-  <img src="assets/unnamed.png" alt="Postman API Fundamentals Student Expert Badge" width="100" height="100" />
+  <img src="assets/postman.png" alt="Postman Flows Beginner Badge" width="120" height="120" gap="20px"/>
+  <img src="assets/unnamed.png" alt="Postman API Fundamentals Student Expert Badge" width="120" height="120" />
+  <img src="assets/badge.svg" alt="Badge" width="140" height="140" gap="20px"/>
+  <img src="assets/badge (1).svg" alt="Postman API Fundamentals Student Expert Badge" width="140" height="140" />
 </p>
 
 <h3 align="left">Connect with me:</h3>
