@@ -22,7 +22,7 @@
 
 <p align="center">
   <!-- Postman Badges -->
-  <img src=" " alt="Postman Flows Beginner" width="100" height="100" />
+  <img src="" alt="Postman Flows Beginner" width="100" height="100" />
   <img src="  " alt="Postman API Fundamentals Student Expert" width="100" height="100" />
 </p>
 
