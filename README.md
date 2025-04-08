@@ -20,10 +20,10 @@
 
 <h3 align="left">Postman Badges:</h3>
 
-<p align="center">
+<p align="left">
   <!-- Postman Badges -->
-  <img src="" alt="Postman Flows Beginner" width="100" height="100" />
-  <img src="  " alt="Postman API Fundamentals Student Expert" width="100" height="100" />
+  <img src="assets/postman.png" alt="Postman Flows Beginner Badge" width="100" height="100" />
+  <img src="assets/unnamed.png" alt="Postman API Fundamentals Student Expert Badge" width="100" height="100" />
 </p>
 
 <h3 align="left">Connect with me:</h3>
