@@ -17,6 +17,15 @@
 
 - ⚡ Fun fact **I am Funny**
 
+
+<h3 align="left">Postman Badges:</h3>
+
+<p align="center">
+  <!-- Postman Badges -->
+  <img src=" " alt="Postman Flows Beginner" width="100" height="100" />
+  <img src="  " alt="Postman API Fundamentals Student Expert" width="100" height="100" />
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mahadevprasad d l" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahadevprasad d l" height="30" width="40" /></a>
