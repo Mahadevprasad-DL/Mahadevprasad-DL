@@ -42,5 +42,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahadevprasad-dl&show_icons=true&locale=en" alt="mahadevprasad-dl" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahadevprasad-dl&" alt="mahadevprasad-dl" /></p>
+
 
