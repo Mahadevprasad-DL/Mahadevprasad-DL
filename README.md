@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **DSA in Java, Data Science, Machine Learning**
+- 🌱 I’m currently learning **DSA in Java, Problem Solving, PowerBI**
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/Mahadevprasad-DL" target="_blank">Github</a>.
 
-- 💬 Ask me about **FullStack Web development (html,css,js,php,mysql), UI/UX Design**
+- 💬 Ask me about **FullStack Web development (html,css,js,php,mysql),<br> UI/UX Design, Data Science , Machine learning**
 
 - 📫 How to reach me: <a href="mailto:girishdl78524@gmail.com">Email</a>
 
