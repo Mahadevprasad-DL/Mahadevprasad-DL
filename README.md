@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **DSA in Java, Problem Solving, PowerBI**
+- 🌱 I’m currently learning **DSA in Java, Deep Learning , Artificial intelligence**
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/Mahadevprasad-DL" target="_blank">Github</a>.
 
