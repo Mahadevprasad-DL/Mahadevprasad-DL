@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mahadevprasad D L</h1>
-<h3 align="center">Full Stack Web Developer | Contributor at GSSoC'24 | UI/UX Designer | Experienced in 50+ Freelance Web Projects | Proficient in UI/UX Design for 50+ Projects | DSA in Java |  PHP Programmer</h3>
+<h3 align="center">Full Stack Web Developer | Contributor at GSSoC'24 | Experienced in 50+ Freelance Web Projects | DSA in Java </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahadevprasad-dl&label=Profile%20views&color=0e75b6&style=flat" alt="mahadevprasad-dl" /> </p>
 
 
-- 🌱 I’m currently learning **DSA in Java, Deep Learning , Artificial intelligence**
+- 🌱 I’m currently learning **DSA in Java, Deep Learning**
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/Mahadevprasad-DL" target="_blank">Github</a>.
 
