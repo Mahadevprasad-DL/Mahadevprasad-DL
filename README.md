@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahadevprasad D L</h1>
-<h3 align="center">Software Engineering @ Socgen | Contributor at GSSoC'24 | Freelance Developer | Web Development & Machine Learning Projects </h3>
+<h3 align="center">Software Engineer @ Socgen | Contributor at GSSoC'24 | Freelance Developer | Web Development & Machine Learning Projects </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahadevprasad-dl&label=Profile%20views&color=0e75b6&style=flat" alt="mahadevprasad-dl" /> </p>
 
