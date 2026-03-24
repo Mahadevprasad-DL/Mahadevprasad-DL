@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/Mahadevprasad-DL" target="_blank">Github</a>.
 
-- 💬 Ask me about **FullStack Web development (html,css,js,php,mysql),MERN, <br> UI/UX Design, Data Science , Machine learning**
+- 💬 Ask me about **FullStack Web development React.js (Typescript), Java Spring boot, PostgreSQL, <br> UI/UX Design, Data Science , Machine learning**
 
 - 📫 How to reach me: <a href="mailto:girishdl78524@gmail.com">Email</a>
 
