@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **DSA in Java, Deep Learning**
 
-- 👨‍💻 All of my projects are available at <a href="https://github.com/Mahadevprasad-DL" target="_blank">Github</a>.
+- 👨‍💻 All of my projects are available at <a href="https://github.com/Mahadevprasad-DL" target="_blank">Github</a>
 
 - 💬 Ask me about **FullStack Web development  React.js (TypeScript), Java Spring Boot, and PostgreSQL, <br> UI/UX Design, Data Science , Machine learning**
 
